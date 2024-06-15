@@ -1,0 +1,14 @@
+{
+  "name": "itemsatis-kod",
+  "version": "1.0.0",
+  "description": "Discord bot projesi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Muhammed",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
